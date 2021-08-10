@@ -1,1 +1,1 @@
-Fork of NEMU by XiangShan
+Fork of NEMU by NJU-ProjectN
